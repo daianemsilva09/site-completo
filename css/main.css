@@ -29,3 +29,9 @@ main {
     width: 37%;
     float: right;
 }
+
+.header-2{
+    background-color: #ffffff;
+    width: 100%;
+    border-bottom: 3 px solid #efefef;
+}
